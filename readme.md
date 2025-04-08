@@ -8,25 +8,13 @@
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=%23000000">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%23A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=%23000000">
-</div>
-<div align="center">
-  
-  <img alt="Static Badge" src="https://img.shields.io/badge/supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF">
-</div>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF">
-</div>
+
+Java, Spring Boot 3.3.2, Spring Security 6.3.1, MySQL, Redis, 
+
+
+QueryDSL, AWS EC2, AWS RDS, AWS ElastiCache, AWS CodeDeploy, 
+
+AWS Elastic Load Balancer, AWS Auto Scaling, AWS Route 53, Docker, Vue.js 
 
 <div align="center">
   <h3>🛠 Tools 🛠</h3>
