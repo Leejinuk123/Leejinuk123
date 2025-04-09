@@ -9,12 +9,21 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
-Java, Spring Boot 3.3.2, Spring Security 6.3.1, MySQL, Redis, 
-
-
-QueryDSL, AWS EC2, AWS RDS, AWS ElastiCache, AWS CodeDeploy, 
-
-AWS Elastic Load Balancer, AWS Auto Scaling, AWS Route 53, Docker, Vue.js 
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-17-blue" alt="Java"/> <img src="https://img.shields.io/badge/SpringBoot-3.3.2-brightgreen" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-6.3.1-green" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/JPA-Hibernate-important" alt="JPA"/>
+  <img src="https://img.shields.io/badge/MySQL-8.0-blue" alt="MySQL"/> <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-15-blue" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-Cache-red" alt="Redis"/>
+  <img src="https://img.shields.io/badge/JWT-Token-yellowgreen" alt="JWT"/>
+  <img src="https://img.shields.io/badge/QueryDSL-TypeSafe-lightgrey" alt="QueryDSL"/> <br>
+  <img src="https://img.shields.io/badge/AWS_EC2-Instance-orange" alt="AWS EC2"/>
+  <img src="https://img.shields.io/badge/AWS_RDS-Database-blue" alt="AWS RDS"/>
+  <img src="https://img.shields.io/badge/AWS_ElastiCache-Redis-red" alt="AWS ElastiCache"/>
+  <img src="https://img.shields.io/badge/Docker-Container-blue" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vue.js-3.x-42b883" alt="Vue.js"/>
+</div>
 
 <div align="center">
   <h3>🛠 Tools 🛠</h3>
